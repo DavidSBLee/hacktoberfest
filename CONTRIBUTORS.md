@@ -1,3 +1,8 @@
+#### Name: [David lee](https://github.com/DavidSBLee)
+ - Place: Wisconsin, USA
+ - Bio: Psychology/Neuroscience research
+ - GitHub: [DavidSBLee](https://github.com/DavidSBLee)
+ 
 #### Name: [Grace Bell](https://github.com/lulabell)
  - Place: North Carolina, USA
  - Bio: Learning Web Dev & Design
